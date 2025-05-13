@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the total duration of the course 'Build Your First Chatbot Using IBM watsonx\u2122'?",
+    "answer": "60 minutes total course time",
+    "type": "factual"
+  },
+  {
+    "question": "Which course introduces the fundamentals of text-to-speech technology using IBM watsonx?",
+    "answer": "Explore Text to Speech Using IBM watson\u00ae",
+    "type": "factual"
+  },
+  {
+    "question": "What is the credential area of the course 'Getting Started with Cybersecurity'?",
+    "answer": "Cybersecurity",
+    "type": "factual"
+  },
+  {
+    "question": "Which course teaches you how to classify data using IBM Granite models?",
+    "answer": "Classifying Data Using IBM Granite",
+    "type": "factual"
+  },
+  {
+    "question": "How long does the course 'Artificial Intelligence Fundamentals' take to complete?",
+    "answer": "10+ hours",
+    "type": "factual"
+  },
+  {
+    "question": "Which course in the AI category involves hands-on simulation and uses IBM watsonx for chatbot creation?",
+    "answer": "Build Your First Chatbot Using IBM watsonx\u2122",
+    "type": "multi-hop"
+  },
+  {
+    "question": "Which course discusses both cybersecurity threat intelligence and hands-on learning activities?",
+    "answer": "Getting Started with Threat Intelligence and Hunting",
+    "type": "multi-hop"
+  },
+  {
+    "question": "Which course includes learning about both prompt engineering and career pathways in generative AI?",
+    "answer": "Generative AI in Action",
+    "type": "multi-hop"
+  },
+  {
+    "question": "Which course teaches how to switch programming languages and fix code using AI tools?",
+    "answer": "Use Generative AI for Software Development Using IBM watsonx\u2122",
+    "type": "multi-hop"
+  },
+  {
+    "question": "Which course explains the CIA triad and concepts of data privacy?",
+    "answer": "Getting Started with Cybersecurity",
+    "type": "multi-hop"
+  },
+  {
+    "question": "Which is longer: 'Artificial Intelligence Fundamentals' or 'Getting Started with Artificial Intelligence'?",
+    "answer": "'Artificial Intelligence Fundamentals' is longer with 10+ hours compared to 3 hours.",
+    "type": "comparative"
+  },
+  {
+    "question": "Which course is more comprehensive in duration: 'Machine Learning for Data Science Projects' or 'Data Fundamentals'?",
+    "answer": "'Machine Learning for Data Science Projects' with 20+ hours is more comprehensive than 'Data Fundamentals' with 7 hours.",
+    "type": "comparative"
+  },
+  {
+    "question": "Between 'Cybersecurity Fundamentals' and 'Getting Started with Cybersecurity', which takes more time?",
+    "answer": "'Cybersecurity Fundamentals' takes more time with 7.5 hours compared to 3 hours.",
+    "type": "comparative"
+  },
+  {
+    "question": "Is 'Journey to Cloud: Orchestrating Your Solution' longer than 'Journey to Cloud: Envisioning Your Solution'?",
+    "answer": "Yes, 'Journey to Cloud: Orchestrating Your Solution' is 20+ hours, while 'Journey to Cloud: Envisioning Your Solution' is 5 hours.",
+    "type": "comparative"
+  },
+  {
+    "question": "Which course is shorter: 'Build Your First Chatbot Using IBM watsonx\u2122' or 'Generative AI in Action'?",
+    "answer": "'Build Your First Chatbot Using IBM watsonx\u2122' is shorter with 60 minutes compared to 'Generative AI in Action' with 5+ hours.",
+    "type": "comparative"
+  },
+  {
+    "question": "Which course teaches quantum computing with IBM Qiskit?",
+    "answer": "N/A",
+    "type": "unanswerable"
+  },
+  {
+    "question": "What is the cost of the 'Artificial Intelligence Fundamentals' course?",
+    "answer": "N/A",
+    "type": "unanswerable"
+  },
+  {
+    "question": "Which course is available in German and focuses on blockchain?",
+    "answer": "N/A",
+    "type": "unanswerable"
+  },
+  {
+    "question": "Who is the instructor of the 'Getting Started with Cybersecurity' course?",
+    "answer": "N/A",
+    "type": "unanswerable"
+  },
+  {
+    "question": "What is the ISBN number of the textbook used in the 'Data Fundamentals' course?",
+    "answer": "N/A",
+    "type": "unanswerable"
+  }
+]
